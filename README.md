@@ -73,6 +73,15 @@
   <i>"Consistency, curiosity, and code — that's my daily ritual."</i>
 </p>
 
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rishikhandagle/rishikhandagle/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
+</p>
+
+
 <p align="center">
   🚀 Let’s build something amazing together!
 </p>
